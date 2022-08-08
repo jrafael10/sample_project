@@ -18,6 +18,7 @@ $writer->addProduct($book2);
 $writer->addProduct($cd);
 
 $writer->write();
+echo "Adding a change here";
      
 
 Runner::run2();
