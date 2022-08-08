@@ -17,7 +17,7 @@ $writer->addProduct($book1);
 $writer->addProduct($book2);
 $writer->addProduct($cd);
 
-//$writer->write();
+$writer->write();
      
 
 Runner::run2();
