@@ -11,7 +11,7 @@
         </title>
     </head>
     <body>
-        <p>Signup</p>
+        <h1>Signup</h1>
     </body>
 </html>
 
